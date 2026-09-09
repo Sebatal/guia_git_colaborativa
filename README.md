@@ -1,7 +1,8 @@
 ﻿# Guía colaborativa de Git
 Este repositorio es un ejercicio práctico para aprender Git en parejas.
 ## Objetivo
-Aprender Git de forma práctica.
+Aprender y dominar Git de forma práctica para el trabajo colaborativo.
+
 
 ## Conceptos básicos de Git
 Repositorio
