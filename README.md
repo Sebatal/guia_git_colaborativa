@@ -28,4 +28,4 @@ Cuando los cambios son diferentes a las líneas original. Dado que Git no decide
 Debe ser conciso, atómico y redactado en imperativo. Debe detallar qué cambio se aplicó y, si no es evidente, el motivo o contexto técnico detrás de la modificación.
 
 ### 4. ¿Qué ventaja aporta Git frente a compartir archivos por correo o Drive?
-Aporta trazabilidad exacta con historial criptográfico de autores y fechas línea por línea. Permite trabajo concurrente y divergente en ramas sin sobreescribir archivos ni duplicar copias caóticas.
+Permite la trazabilidad de cada cambio que usuario escribió tal o cual cambio y cuándo. Permite que trabajo se se realice no sobreescriba archivos o duplicar copias que tengan errores.
